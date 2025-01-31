@@ -3,7 +3,7 @@ B.S. General Geography, GIS Certification
 Appalachian State University
 Boone, NC, USA
 
-<img src="./Campus_Picture.jpg" width="500" height="200" />
+<img src="resume.md/Campus_Picture.jpg" width="500" height="200" />
 
 ### Summary
 Hello, My name is Archer Cranford. I am currently a senior at Appalachian State University in Boone, NC, USA. I am pursing a B.S. in General Geography and a Certificate in Geograhpic Information Systems (GIS). 
